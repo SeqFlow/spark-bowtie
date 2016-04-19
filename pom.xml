@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>Spark-Bowtie: Integration demonstration between Spark and NGS aligners</name>
-  <url>http://bigdata.clemson.edu</url>
+  <url>http://seqflow.org</url>
 
   <developers>
     <developer>
